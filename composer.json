@@ -1,5 +1,5 @@
 {
-     "name": "8xprovn/keycloak",
+     "name": "8xprovn/microservice",
      "autoload": {
          "psr-4": {
              "Microservices\\": "src/"
